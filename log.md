@@ -30,3 +30,14 @@ Started with the basics html and css.
 **Link(s) to work**
 1. [Technical Documentation](https://codepen.io/pdahlstedt/full/wbopGP)
 2. [Personal Portfolio](https://codepen.io/pdahlstedt/pen/QRGVJz)
+
+### Day 3: May 15, Wednesday
+
+**Today's Progress**: Completed the basic Javascript training in FreeCodeCamp today.
+
+**Thoughts** Syntactic similar to C++ and C# but also many differences. Fun to code, even the simpler examples give you a good idea.
+Simpler, elegant and powerful - waiting to unleash the power.
+
+**Link(s) to work**
+
+
