@@ -48,3 +48,13 @@ Simpler, elegant and powerful - waiting to unleash the power.
 
 **Link(s) to work**
 
+### Day 6
+
+**Today's Progress**: Started regular expressions for Javascript in FreeCodeCamp today.
+
+**Thoughts** Lots of other things happened today but managed to find some time for regular expressions. The regular expressions in javascript are powerful but the tests in the training was not so good. Looking forward to master javascript so much so I can start with React, Electron and Express ;) 
+
+**Link(s) to work**
+
+
+
