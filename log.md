@@ -56,5 +56,11 @@ Simpler, elegant and powerful - waiting to unleash the power.
 
 **Link(s) to work**
 
+### Day 7
 
+**Today's Progress**: Finished regular expressions for Javascript in FreeCodeCamp today. Also did the debugging section.
+
+**Thoughts** A little bit tired of bad or unclear tests descriptions (mainly reg ex). Regular expressions was also difficult, need to exercise a bit more on them. Can't wait to get to the real stuff... 
+
+**Link(s) to work**
 
