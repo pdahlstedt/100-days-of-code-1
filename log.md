@@ -64,3 +64,11 @@ Simpler, elegant and powerful - waiting to unleash the power.
 
 **Link(s) to work**
 
+### Day 8
+
+**Today's Progress**: Completed the Basic Data Structures and started Basic Algorithm Scription.
+
+**Thoughts** This was fun, also feels like I understand more... can do more by my self and know what to search for when needed. Long time since I learned a new language, forgot how fun it was ;)
+
+**Link(s) to work**
+
