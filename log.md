@@ -40,7 +40,7 @@ Simpler, elegant and powerful - waiting to unleash the power.
 
 **Link(s) to work**
 
-### Day 5
+### Day 5: May 16, Thursday
 
 **Today's Progress**: Completed the ES6 training in FreeCodeCamp today.
 
@@ -48,7 +48,7 @@ Simpler, elegant and powerful - waiting to unleash the power.
 
 **Link(s) to work**
 
-### Day 6
+### Day 6: May 17, Friday
 
 **Today's Progress**: Started regular expressions for Javascript in FreeCodeCamp today.
 
@@ -56,7 +56,7 @@ Simpler, elegant and powerful - waiting to unleash the power.
 
 **Link(s) to work**
 
-### Day 7
+### Day 7: May 18, Saturday
 
 **Today's Progress**: Finished regular expressions for Javascript in FreeCodeCamp today. Also did the debugging section.
 
@@ -64,11 +64,19 @@ Simpler, elegant and powerful - waiting to unleash the power.
 
 **Link(s) to work**
 
-### Day 8
+### Day 8: May 19, Sunday
 
 **Today's Progress**: Completed the Basic Data Structures and started Basic Algorithm Scription.
 
 **Thoughts** This was fun, also feels like I understand more... can do more by my self and know what to search for when needed. Long time since I learned a new language, forgot how fun it was ;)
+
+**Link(s) to work**
+
+### Day 9: May 20, Monday
+
+**Today's Progress**: Continued with Basic Algorithm Scription.
+
+**Thoughts** Ran late, after Game of thrones...
 
 **Link(s) to work**
 
