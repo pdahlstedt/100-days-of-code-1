@@ -80,3 +80,10 @@ Simpler, elegant and powerful - waiting to unleash the power.
 
 **Link(s) to work**
 
+### Day 10: May 21, Monday
+
+**Today's Progress**: Coompleted the Basic Algorithm Scripting and Object Oriented Programming.
+
+**Thoughts** Fun with algorithms, prototypes was more understanding the concept... think ES2015 has the class concept ;)
+
+**Link(s) to work**
