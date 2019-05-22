@@ -80,7 +80,7 @@ Simpler, elegant and powerful - waiting to unleash the power.
 
 **Link(s) to work**
 
-### Day 10: May 21, Monday
+### Day 10: May 21, Tuesday
 
 **Today's Progress**: Coompleted the Basic Algorithm Scripting and Object Oriented Programming.
 
@@ -88,7 +88,7 @@ Simpler, elegant and powerful - waiting to unleash the power.
 
 **Link(s) to work**
 
-### Day 11: May 22, Tuesday
+### Day 11: May 22, Wednesday
 
 **Today's Progress**: Halfway through functional programming challange.
 
