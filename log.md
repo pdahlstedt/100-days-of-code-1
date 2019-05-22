@@ -87,3 +87,11 @@ Simpler, elegant and powerful - waiting to unleash the power.
 **Thoughts** Fun with algorithms, prototypes was more understanding the concept... think ES2015 has the class concept ;)
 
 **Link(s) to work**
+
+### Day 11: May 22, Tuesday
+
+**Today's Progress**: Halfway through functional programming challange.
+
+**Thoughts** Getting there, but tired now ;)
+
+**Link(s) to work**
