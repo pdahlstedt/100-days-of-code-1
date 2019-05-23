@@ -96,7 +96,7 @@ Simpler, elegant and powerful - waiting to unleash the power.
 
 **Link(s) to work**
 
-### Day 11: May 22, Wednesday
+### Day 12: May 23, Thursday
 
 **Today's Progress**: Completed the functional programming challange.
 
