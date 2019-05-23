@@ -95,3 +95,11 @@ Simpler, elegant and powerful - waiting to unleash the power.
 **Thoughts** Getting there, but tired now ;)
 
 **Link(s) to work**
+
+### Day 11: May 22, Wednesday
+
+**Today's Progress**: Completed the functional programming challange.
+
+**Thoughts** Think I got the hang of it, felt easier towards the end ;) 
+
+**Link(s) to work**
