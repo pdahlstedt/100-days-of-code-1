@@ -98,7 +98,7 @@ Simpler, elegant and powerful - waiting to unleash the power.
 
 ### Day 12: May 23, Thursday
 
-**Today's Progress**: Completed the functional programming challange.
+**Today's Progress**: Completed the functional programming challenge.
 
 **Thoughts** Think I got the hang of it, felt easier towards the end ;) 
 
