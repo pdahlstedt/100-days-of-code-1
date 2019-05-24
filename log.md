@@ -103,3 +103,11 @@ Simpler, elegant and powerful - waiting to unleash the power.
 **Thoughts** Think I got the hang of it, felt easier towards the end ;) 
 
 **Link(s) to work**
+
+### Day 13: May 24, Friday
+
+**Today's Progress**: Working with the intermediate Algorithm Scripting.
+
+**Thoughts** Learning a lot by repetition and googling 
+
+**Link(s) to work**
