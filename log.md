@@ -111,3 +111,11 @@ Simpler, elegant and powerful - waiting to unleash the power.
 **Thoughts** Learning a lot by repetition and googling 
 
 **Link(s) to work**
+
+### Day 14: May 25, Saturday
+
+**Today's Progress**: Continued with the intermediate Algorithm Scripting.
+
+**Thoughts** Some algorithms was really tough... 
+
+**Link(s) to work**
