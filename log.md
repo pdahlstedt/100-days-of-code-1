@@ -119,3 +119,13 @@ Simpler, elegant and powerful - waiting to unleash the power.
 **Thoughts** Some algorithms was really tough... 
 
 **Link(s) to work**
+
+### Day 15: May 26, Sunday
+
+**Today's Progress**: Completed the javascript algorithms and data structure certification.
+
+**Thoughts** Learned a lot, float handling, reg exp, ... Tough day ;)
+
+**Link(s) to work**
+
+
