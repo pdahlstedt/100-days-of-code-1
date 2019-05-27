@@ -128,4 +128,11 @@ Simpler, elegant and powerful - waiting to unleash the power.
 
 **Link(s) to work**
 
+### Day 16: May 27, Monday
+
+**Today's Progress**: Bootstrap and jQuery today.
+
+**Thoughts** Probably useful and powerful ;) Challenges was easy though
+
+**Link(s) to work**
 
