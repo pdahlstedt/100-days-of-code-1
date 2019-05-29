@@ -136,3 +136,19 @@ Simpler, elegant and powerful - waiting to unleash the power.
 
 **Link(s) to work**
 
+### Day 17: May 28, Tuesday
+
+**Today's Progress**: None... full day event on the leadership training
+
+**Thoughts**
+
+**Link(s) to work**
+
+### Day 18: May 29, Wednesday
+
+**Today's Progress**: Completed sass challenge
+
+**Thoughts**
+
+**Link(s) to work**
+
