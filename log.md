@@ -152,3 +152,11 @@ Simpler, elegant and powerful - waiting to unleash the power.
 
 **Link(s) to work**
 
+### Day 19: May 30, Thursday
+
+**Today's Progress**: Worked on the react challenge 
+
+**Thoughts**
+
+**Link(s) to work**
+
