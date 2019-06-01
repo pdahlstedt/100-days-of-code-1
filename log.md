@@ -168,3 +168,11 @@ Simpler, elegant and powerful - waiting to unleash the power.
 
 **Link(s) to work**
 
+### Day 21: June 1, Saturday
+
+**Today's Progress**: Played around with html and css
+
+**Thoughts** Hard to get all bits and pieces to work exactly the way you want
+
+**Link(s) to work**
+https://pdahlstedt.github.io
