@@ -160,3 +160,11 @@ Simpler, elegant and powerful - waiting to unleash the power.
 
 **Link(s) to work**
 
+### Day 20: May 31, Friday
+
+**Today's Progress**: Completed the react challenge and the redux challenge
+
+**Thoughts** Makes sence, but a lot of small details to keep in mind. Need more practice
+
+**Link(s) to work**
+
