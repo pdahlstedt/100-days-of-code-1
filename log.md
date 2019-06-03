@@ -176,3 +176,19 @@ Simpler, elegant and powerful - waiting to unleash the power.
 
 **Link(s) to work**
 https://pdahlstedt.github.io
+
+### Day 22: June 2, Sunday
+
+**Today's Progress**: Slacker... 
+
+**Thoughts** 
+
+**Link(s) to work**
+
+### Day 23: June 3, Monday
+
+**Today's Progress**: Finished the redux and react challenge
+
+**Thoughts** Complicated stuff... need to google or rerun before I use it
+
+**Link(s) to work**
