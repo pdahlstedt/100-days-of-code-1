@@ -192,3 +192,11 @@ https://pdahlstedt.github.io
 **Thoughts** Complicated stuff... need to google or rerun before I use it
 
 **Link(s) to work**
+
+### Day 26: June 6, Thursday
+
+**Today's Progress**: Started the final projects for the Front End Libraries
+
+**Thoughts** Fun to put everything together
+
+**Link(s) to work**
