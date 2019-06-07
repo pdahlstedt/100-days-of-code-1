@@ -200,3 +200,12 @@ https://pdahlstedt.github.io
 **Thoughts** Fun to put everything together
 
 **Link(s) to work**
+
+### Day 27: June 7, Friday
+
+**Today's Progress**: Continued the final projects for the Front End Libraries. Looked into layouts, social media buttons, react etc
+
+**Thoughts** Fun to put everything together
+
+**Link(s) to work**
+https://codepen.io/pdahlstedt/pen/mYZEMj
