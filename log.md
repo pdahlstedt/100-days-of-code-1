@@ -209,3 +209,13 @@ https://pdahlstedt.github.io
 
 **Link(s) to work**
 https://codepen.io/pdahlstedt/pen/mYZEMj
+
+### Day 28: June 8, Saturday
+
+**Today's Progress**: Completed the Random Quote Machine, learned a lot by struggling when things didn't work out as expected.
+
+**Thoughts** Learning and starting to feel comfortable.
+
+**Link(s) to work**
+https://codepen.io/pdahlstedt/pen/mYZEMj
+
