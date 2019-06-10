@@ -219,3 +219,18 @@ https://codepen.io/pdahlstedt/pen/mYZEMj
 **Link(s) to work**
 https://codepen.io/pdahlstedt/pen/mYZEMj
 
+### Day 29: June 9, Sunday
+
+**Today's Progress**: Started with the mark down editor.
+
+**Thoughts** Got stuck on the grid.
+
+**Link(s) to work**
+
+### Day 30: June 10, Monday
+
+**Today's Progress**: Played around with the grid in VS Code.
+
+**Thoughts** Finally sorted it out.
+
+**Link(s) to work**
