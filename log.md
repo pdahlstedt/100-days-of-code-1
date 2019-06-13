@@ -234,3 +234,29 @@ https://codepen.io/pdahlstedt/pen/mYZEMj
 **Thoughts** Finally sorted it out.
 
 **Link(s) to work**
+
+### Day 31: June 11, Tuesday
+
+**Today's Progress**: Played around with the grid in VS Code.
+
+**Thoughts** Finally sorted it out.
+
+**Link(s) to work**
+
+### Day 32: June 12, Wednesday
+
+**Today's Progress**: -
+
+**Thoughts** Finally sorted it out.
+
+**Link(s) to work**
+
+### Day 33: June 13, Thursday
+
+**Today's Progress**: Created react components for editor and header, state from parent to prop in child, onChange
+
+**Thoughts** 
+
+**Link(s) to work**
+
+
