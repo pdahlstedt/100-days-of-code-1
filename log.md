@@ -259,4 +259,20 @@ https://codepen.io/pdahlstedt/pen/mYZEMj
 
 **Link(s) to work**
 
+### Day 34: June 14, Friday
+
+**Today's Progress**: -
+
+**Thoughts** 
+
+**Link(s) to work**
+
+### Day 35: June 15, Saturday
+
+**Today's Progress**: Started with Redux
+
+**Thoughts** Still difficult
+
+**Link(s) to work**
+
 
