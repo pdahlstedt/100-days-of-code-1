@@ -275,4 +275,27 @@ https://codepen.io/pdahlstedt/pen/mYZEMj
 
 **Link(s) to work**
 
+### Day 36: June 16, Monday
+
+**Today's Progress**: Started with Redux
+
+**Thoughts** Still difficult
+
+**Link(s) to work**
+
+### Day 37: June 17, Tuesday
+
+**Today's Progress**: Started with Redux
+
+**Thoughts** Still difficult
+
+**Link(s) to work**
+
+### Day 38: June 18, Monday
+
+**Today's Progress**: REMOVED Redux
+
+**Thoughts** Still difficult
+
+**Link(s) to work**
 
