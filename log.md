@@ -275,7 +275,7 @@ https://codepen.io/pdahlstedt/pen/mYZEMj
 
 **Link(s) to work**
 
-### Day 36: June 16, Monday
+### Day 36: June 16, Sunday
 
 **Today's Progress**: Started with Redux
 
@@ -283,7 +283,7 @@ https://codepen.io/pdahlstedt/pen/mYZEMj
 
 **Link(s) to work**
 
-### Day 37: June 17, Tuesday
+### Day 37: June 17, Monday
 
 **Today's Progress**: Started with Redux
 
@@ -291,11 +291,36 @@ https://codepen.io/pdahlstedt/pen/mYZEMj
 
 **Link(s) to work**
 
-### Day 38: June 18, Monday
+### Day 38: June 18, Tuesday
 
 **Today's Progress**: REMOVED Redux
 
 **Thoughts** Still difficult
 
 **Link(s) to work**
+
+### Day 39: June 19, Wednesday
+
+**Today's Progress**: Completed the solution with markdown
+
+**Thoughts** Still difficult
+
+**Link(s) to work**
+
+### Day 40: June 20, Thursday
+
+**Today's Progress**: 
+
+**Thoughts** 
+
+**Link(s) to work**
+
+### Day 41: June 21, Friday
+
+**Today's Progress**: Certified the markdown editor, made most of the drum machine
+
+**Thoughts** Quite straight forward
+
+**Link(s) to work**
+
 
