@@ -323,4 +323,28 @@ https://codepen.io/pdahlstedt/pen/mYZEMj
 
 **Link(s) to work**
 
+### Day 42: June 22, Saturday
+
+**Today's Progress**: Completed the drum machine, started the calculator
+
+**Thoughts** Fun
+
+**Link(s) to work**
+
+### Day 43: June 23, Sunday
+
+**Today's Progress**: Layout with bootstrap for the calculator
+
+**Thoughts** 
+
+**Link(s) to work**
+
+### Day 44: June 24, Monday
+
+**Today's Progress**: Completed most of the infrastructure for the calculator
+
+**Thoughts** 
+
+**Link(s) to work**
+
 
