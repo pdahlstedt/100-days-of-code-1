@@ -347,4 +347,22 @@ https://codepen.io/pdahlstedt/pen/mYZEMj
 
 **Link(s) to work**
 
+### Day 45: June 25, Tuesday
+
+**Today's Progress**: Completed most of the infrastructure for the calculator
+
+**Thoughts** 
+
+**Link(s) to work**
+
+### Day 46: June 26, Wednesday
+
+**Today's Progress**: Working on the logic for the calculator
+
+**Thoughts** 
+
+**Link(s) to work**
+
+
+
 
