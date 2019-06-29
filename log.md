@@ -363,6 +363,28 @@ https://codepen.io/pdahlstedt/pen/mYZEMj
 
 **Link(s) to work**
 
+### Day 47: June 27, Thursday
 
+**Today's Progress**: Working on the the calculator
+
+**Thoughts** 
+
+**Link(s) to work**
+
+### Day 48: June 28, Friday
+
+**Today's Progress**: Working on the the calculator
+
+**Thoughts** 
+
+**Link(s) to work**
+
+### Day 49: June 29, Saturday
+
+**Today's Progress**: Working on the the calculator
+
+**Thoughts** 
+
+**Link(s) to work**
 
 
