@@ -387,4 +387,19 @@ https://codepen.io/pdahlstedt/pen/mYZEMj
 
 **Link(s) to work**
 
+### Day 50: June 30, Sunday
+
+**Today's Progress**: Working on the the calculator
+
+**Thoughts** 
+
+**Link(s) to work**
+
+### Day 51: July 01, Monday
+
+**Today's Progress**: Completed the calculator and started the pomodoro clock
+
+**Thoughts** Learned so much, today just reflected on debugging a web page that was totally unknown before
+
+**Link(s) to work**
 
