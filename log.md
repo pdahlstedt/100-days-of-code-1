@@ -403,3 +403,18 @@ https://codepen.io/pdahlstedt/pen/mYZEMj
 
 **Link(s) to work**
 
+### Day 52: July 02, Tuesday
+
+**Today's Progress**: Not much work... travelling
+
+**Thoughts** 
+
+**Link(s) to work**
+
+### Day 53: July 03, Wednesday
+
+**Today's Progress**: Pomodoro clock, infrastructure
+
+**Thoughts** 
+
+**Link(s) to work**
