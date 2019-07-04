@@ -418,3 +418,11 @@ https://codepen.io/pdahlstedt/pen/mYZEMj
 **Thoughts** 
 
 **Link(s) to work**
+
+### Day 54: July 04, Thursday
+
+**Today's Progress**: Completed the Pomodoro clock, ugly hmi - maybe should go back later and make it nicer
+
+**Thoughts** 
+
+**Link(s) to work**
