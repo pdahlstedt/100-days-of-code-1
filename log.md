@@ -426,3 +426,28 @@ https://codepen.io/pdahlstedt/pen/mYZEMj
 **Thoughts** 
 
 **Link(s) to work**
+
+### Day 55: July 05, Friday
+
+**Today's Progress**: Started with Data Visualization with D3
+
+**Thoughts** 
+
+**Link(s) to work**
+
+### Day 56: July 06, Saturday
+
+**Today's Progress**: Data Visualization with D3
+
+**Thoughts** 
+
+**Link(s) to work**
+
+### Day 57: July 07, Sunday
+
+**Today's Progress**: Completed Data Visualization with D3 and JSON APIs and Ajax
+
+**Thoughts** 
+
+**Link(s) to work**
+
