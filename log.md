@@ -451,3 +451,22 @@ https://codepen.io/pdahlstedt/pen/mYZEMj
 
 **Link(s) to work**
 
+
+### Day 58: July 08, Monday
+
+**Today's Progress**: Started on the Data Visualization projects
+
+**Thoughts** 
+
+**Link(s) to work**
+
+### Day 59: July 09, Tueday
+
+**Today's Progress**: Data Visualization project #1 D3 Bar Chart
+
+**Thoughts** 
+
+**Link(s) to work**
+
+
+
