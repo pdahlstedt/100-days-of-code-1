@@ -468,5 +468,21 @@ https://codepen.io/pdahlstedt/pen/mYZEMj
 
 **Link(s) to work**
 
+### Day 60: July 10, Wednesday
+
+**Today's Progress**: Data Visualization project #1 D3 Bar Chart
+
+**Thoughts** 
+
+**Link(s) to work**
+
+### Day 61: July 11, Thursday
+
+**Today's Progress**: Completed D3 Bar Chart, started on scatter plot
+
+**Thoughts** 
+
+**Link(s) to work**
+
 
 
