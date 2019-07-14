@@ -484,5 +484,28 @@ https://codepen.io/pdahlstedt/pen/mYZEMj
 
 **Link(s) to work**
 
+### Day 62: July 12, Friday
+
+**Today's Progress**: Completed D3 Bar Chart, started on scatter plot
+
+**Thoughts** 
+
+**Link(s) to work**
+
+## Day 63: July 13, Saturday
+
+**Today's Progress**: 
+
+**Thoughts** 
+
+**Link(s) to work**
+
+## Day 64: July 14, Sunday
+
+**Today's Progress**: Learned scales and axes
+
+**Thoughts** 
+
+**Link(s) to work**
 
 
