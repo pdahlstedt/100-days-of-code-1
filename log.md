@@ -508,4 +508,36 @@ https://codepen.io/pdahlstedt/pen/mYZEMj
 
 **Link(s) to work**
 
+## Day 65: July 15, Monday
+
+**Today's Progress**: 
+
+**Thoughts** 
+
+**Link(s) to work**
+
+## Day 66: July 16, Tuesday
+
+**Today's Progress**: 
+
+**Thoughts** 
+
+**Link(s) to work**
+
+## Day 67: July 17, Wednesday
+
+**Today's Progress**: 
+
+**Thoughts** 
+
+**Link(s) to work**
+
+## Day 68: July 18, Thursday
+
+**Today's Progress**: Looking into d3 geoPath etc
+
+**Thoughts** 
+
+**Link(s) to work**
+
 
