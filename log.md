@@ -540,4 +540,28 @@ https://codepen.io/pdahlstedt/pen/mYZEMj
 
 **Link(s) to work**
 
+## Day 69: July 19, Friday
+
+**Today's Progress**: 
+
+**Thoughts** 
+
+**Link(s) to work**
+
+## Day 70: July 20, Saturday
+
+**Today's Progress**: 
+
+**Thoughts** 
+
+**Link(s) to work**
+
+## Day 71: July 21, Sunday
+
+**Today's Progress**: Completed the choropleth and the tree map challenges, and finalized the data visualization challenge
+
+**Thoughts** 
+
+**Link(s) to work**
+
 
