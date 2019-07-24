@@ -562,6 +562,28 @@ https://codepen.io/pdahlstedt/pen/mYZEMj
 
 **Thoughts** 
 
+**Link(s) to 
+
+## Day 72: July 22, Monday
+
+**Today's Progress**: Started with microservices, stuck with glitch...
+
+**Thoughts** 
+
 **Link(s) to work**
 
+## Day 73: July 23, Tuesday
 
+**Today's Progress**: 
+
+**Thoughts** 
+
+**Link(s) to work**
+
+## Day 74: July 23, Tuesday
+
+**Today's Progress**: Express and package.json
+
+**Thoughts** 
+
+**Link(s) to work**
