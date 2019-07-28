@@ -580,9 +580,41 @@ https://codepen.io/pdahlstedt/pen/mYZEMj
 
 **Link(s) to work**
 
-## Day 74: July 23, Tuesday
+## Day 74: July 24, Wednesday
 
 **Today's Progress**: Express and package.json
+
+**Thoughts** 
+
+**Link(s) to work**
+
+## Day 75: July 25, Thursday
+
+**Today's Progress**: 
+
+**Thoughts** 
+
+**Link(s) to work**
+
+## Day 76: July 26, Friday
+
+**Today's Progress**: 
+
+**Thoughts** 
+
+**Link(s) to work**
+
+## Day 77: July 27, Saturday
+
+**Today's Progress**: 
+
+**Thoughts** 
+
+**Link(s) to work**
+
+## Day 78: July 28, Sunday
+
+**Today's Progress**: Created a mongodb in atlas
 
 **Thoughts** 
 
