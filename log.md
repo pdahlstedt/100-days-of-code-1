@@ -619,3 +619,11 @@ https://codepen.io/pdahlstedt/pen/mYZEMj
 **Thoughts** 
 
 **Link(s) to work**
+
+## Day 79: July 29, Monday
+
+**Today's Progress**: mongoose v4 exercises 
+
+**Thoughts** 
+
+**Link(s) to work**
