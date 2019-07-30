@@ -627,3 +627,12 @@ https://codepen.io/pdahlstedt/pen/mYZEMj
 **Thoughts** 
 
 **Link(s) to work**
+
+## Day 80: July 30, Tuesday
+
+**Today's Progress**: mongoose v4 exercises - all but last one 
+
+**Thoughts** 
+
+**Link(s) to work**
+ 
