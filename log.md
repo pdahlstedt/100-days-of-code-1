@@ -635,4 +635,20 @@ https://codepen.io/pdahlstedt/pen/mYZEMj
 **Thoughts** 
 
 **Link(s) to work**
+
+## Day 81: July 31, Wednesday
+
+**Today's Progress**: pool... 
+
+**Thoughts** 
+
+**Link(s) to work**
+ 
+## Day 82: August 1, Thursday
+
+**Today's Progress**: finalized mongodb and mongoose 
+
+**Thoughts** 
+
+**Link(s) to work**
  
