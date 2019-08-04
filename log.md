@@ -651,4 +651,28 @@ https://codepen.io/pdahlstedt/pen/mYZEMj
 **Thoughts** 
 
 **Link(s) to work**
+
+## Day 83: August 2, Friday
+
+**Today's Progress**:  
+
+**Thoughts** 
+
+**Link(s) to work**
+ 
+## Day 84: August 3, Saturday
+
+**Today's Progress**:  
+
+**Thoughts** 
+
+**Link(s) to work**
+ 
+## Day 85: August 4, Sunday
+
+**Today's Progress**:  Completed timestamp server
+
+**Thoughts** 
+
+**Link(s) to work**
  
