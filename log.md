@@ -676,3 +676,19 @@ https://codepen.io/pdahlstedt/pen/mYZEMj
 
 **Link(s) to work**
  
+## Day 86: August 5, Monday
+
+**Today's Progress**:  
+
+**Thoughts** 
+
+**Link(s) to work**
+ 
+## Day 87: August 6, Tuesday
+
+**Today's Progress**:  Got stuck on mongoose connection string... and deprecated open()...
+
+**Thoughts** 
+
+**Link(s) to work**
+ 
