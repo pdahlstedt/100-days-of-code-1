@@ -692,3 +692,28 @@ https://codepen.io/pdahlstedt/pen/mYZEMj
 
 **Link(s) to work**
  
+ 
+## Day 88: August 7, Wednesday
+
+**Today's Progress**:  
+
+**Thoughts** 
+
+**Link(s) to work**
+
+## Day 89: August 8, Thursday
+
+**Today's Progress**:  
+
+**Thoughts** 
+
+**Link(s) to work**
+
+## Day 90: August 9, Friday
+
+**Today's Progress**:  Updated mongoose and other modules to latest...
+
+**Thoughts** 
+
+**Link(s) to work**
+
