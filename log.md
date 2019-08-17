@@ -717,3 +717,64 @@ https://codepen.io/pdahlstedt/pen/mYZEMj
 
 **Link(s) to work**
 
+## Day 91: August 10, SATURDAY
+
+**Today's Progress**:  Updated mongoose and other modules to latest...
+
+**Thoughts** 
+
+**Link(s) to work**
+## Day 92: August 11, Sunday
+
+**Today's Progress**:  Updated mongoose and other modules to latest...
+
+**Thoughts** 
+
+**Link(s) to work**
+## Day 93: August 12, MONDAY
+
+**Today's Progress**:  Updated mongoose and other modules to latest...
+
+**Thoughts** 
+
+**Link(s) to work**
+## Day 94: August 13, Tuesday
+
+**Today's Progress**:  Updated mongoose and other modules to latest...
+
+**Thoughts** 
+
+**Link(s) to work**
+
+## Day 95: August 14, Wednesday
+
+**Today's Progress**:  Updated mongoose and other modules to latest...
+
+**Thoughts** 
+
+**Link(s) to work**
+
+## Day 96: August 15, THURSDAY
+
+**Today's Progress**:  Updated mongoose and other modules to latest...
+
+**Thoughts** 
+
+## Day 97: August 16, Friday
+
+**Today's Progress**:  Updated mongoose and other modules to latest...
+
+**Thoughts** 
+
+**Link(s) to work**
+
+## Day 98: August 17, SATURDAY
+
+**Today's Progress**:  Updated mongoose and other modules to latest...
+
+**Thoughts** 
+
+**Link(s) to work**
+
+
+**Link(s) to work**
