@@ -777,4 +777,19 @@ https://codepen.io/pdahlstedt/pen/mYZEMj
 **Link(s) to work**
 
 
+## Day 99: August 18, Sunday
+
+**Today's Progress**:  Updated mongoose and other modules to latest...
+
+**Thoughts** 
+
 **Link(s) to work**
+
+## Day 100: August 19, Monday
+
+**Today's Progress**:  Updated mongoose and other modules to latest...
+
+**Thoughts** 
+
+**Link(s) to work**
+
